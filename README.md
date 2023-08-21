@@ -38,6 +38,6 @@ ObsPy provides a comprehensive toolkit for seismologists, researchers, and stude
 
 The Contextily library was used to generate maps for geo-visualization of the Ojai earthquake sequence. 
 
-![](img/seismic_time_series_ventura_county_20aug2023.png)
+![](img/map_seismic_ventura_county_20aug2023.png)
 
 The Contextily package facilitates the visualization of geospatial data by fetching and rendering basemaps from tile providers. These can be used as backdrops in maps created with packages like matplotlib or geopandas.
